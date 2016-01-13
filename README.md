@@ -12,5 +12,5 @@ I use a noise library called LibNoise, that has been ported to Unity by others. 
 I have made a couple of videos on Youtube with this terrain generation in the background, and many people were interested in a tutorial / source code, so here it is. If you want to, you can check out my channel here: https://www.youtube.com/user/MunkkeliGaming
 
 ## Licence
-Licenced with the MIT Licence.
+Licenced with the MIT Licence.  
 LibNoise.Unity is released under the LGPL license. See COPYING.txt and COPYING.LESSER.txt for details.
