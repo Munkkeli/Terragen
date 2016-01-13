@@ -13,3 +13,4 @@ I have made a couple of videos on Youtube with this terrain generation in the ba
 
 ## Licence
 Licenced with the MIT Licence.
+LibNoise.Unity is released under the LGPL license. See COPYING.txt and COPYING.LESSER.txt for details.
